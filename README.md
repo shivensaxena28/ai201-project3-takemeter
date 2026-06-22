@@ -1,6 +1,6 @@
 # TakeMeter: Evaluating r/ussoccer World Cup Discourse 
 
-**Demo Video Walkthrough:** `[INSERT_YOUR_DEMO_VIDEO_LINK_HERE]`
+**Demo Video Walkthrough:** `https://www.loom.com/share/a124aa51258141c2ac68b2af51abd765`
 
 TakeMeter is a fine-tuned NLP classification model designed to evaluate the substantive quality of user discourse inside the `r/ussoccer` subreddit during the 2026 FIFA World Cup.
 
